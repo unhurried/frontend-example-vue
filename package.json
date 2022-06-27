@@ -1,6 +1,6 @@
 {
-  "name": "fullstack-example-frontend",
-  "version": "0.5.2",
+  "name": "frontend-example-vue",
+  "version": "0.6.0",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
