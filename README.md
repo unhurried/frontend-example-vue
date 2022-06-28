@@ -1,4 +1,4 @@
-# fullstack-example-frontend
+# frontend-example-vue
 
 A simple Vue.js project that serves user interface for TODO web app.
 
